@@ -11,7 +11,6 @@ The project is organized into the following sections:
 - **SQL Scripts**: Contains all the SQL queries used for data extraction and analysis.
 - **Data**: Includes raw data files used in the analysis.
 - **Results**: Contains outputs and visualizations derived from the analysis.
-- **Documentation**: Detailed explanations of methodologies and findings.
 - **README.md**: Project overview and description.
 
 ## Datasets
