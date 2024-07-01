@@ -7,8 +7,6 @@ This project involves the analysis of sales data from Atliq Hardware Company. Th
 ## Project Structure
 
 The project is organized into the following sections:
-
-- **SQL Scripts**: Contains all the SQL queries used for data extraction and analysis.
 - **Data**: Includes raw data files used in the analysis.
 - **Results**: Contains outputs and visualizations derived from the analysis.
 - **README.md**: Project overview and description.
